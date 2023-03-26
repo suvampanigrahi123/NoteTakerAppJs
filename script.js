@@ -76,7 +76,7 @@ addBtn.addEventListener('click',()=>addNewNotes());
 
 const footer=document.createElement('footer');
 
-const htmlData=`        <p>Devloped By suvampanigrahi</p> <br />
+const htmlData=`        <p>Devloped By Our Team</p> <br />
 <p>All fonts and svg &copy; from fontawsome.com<br /> All Rights reserved</p>`;
 footer.insertAdjacentHTML('afterbegin',htmlData);
 
