@@ -80,4 +80,4 @@ const htmlData=`        <p>Devloped By Our Team</p> <br />
 <p>All fonts and svg &copy; from fontawsome.com<br /> All Rights reserved</p>`;
 footer.insertAdjacentHTML('afterbegin',htmlData);
 
-document.body.append(footer);
+ document.body.append(footer);
